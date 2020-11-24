@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">PhotoGallery</string>
+    <string name="text1">"1. This panel is south of the main park entrance along Highway 191. (NPS photo by Neal Herbert) "</string>
+    <string name="text2">"2. Red fox at Soda Butte; February 1999; Accession No. 15983 "</string>
+    <string name="text3">"3. Mountain lion kitten walking through the snow; Accession No. 18069d" </string>
+    <string name="text4">"4. Bison grazing in the Upper Geyser Basin; Diane Renkin; January, 2013; Catalog #19046d; Original #DSCN9101"</string>
+    <string name="text5">"5. Pronghorn on the move in Lamar Valley; Neal Herbert; March 2015; Catalog #20001d; Original #ndh-yell-4009"</string>
+    <string name="text6">"6. Pronghorn, Lamar Valley; Neal Herbert; March 2015; Catalog #19999d; Original #ndh-yell-4020"</string>
+    <string name="text7">"7. Bison grazing near Midway Geyser Basin in winter; Jim Peaco; March 2, 2006; Catalog #18997d; Original #IT8M9177"</string>
+    <string name="text8">"8. Potts Hot Springs - unidentified feature; Hot springs, West Thumb area; 1977; Accession No. 06536"</string>
+    <string name="text9">"9. Cow moose in Willow Park; 1947; Accession No. 00501"</string>
+    <string name="text10">"10. Mystic Falls; 1976; Accession No. 03756"</string>
+    <string name="nextButtonText">NEXT</string>
+    <string name="previousButtonText">PREVIOUS</string>
+</resources>
